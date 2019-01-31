@@ -17,28 +17,11 @@ service:
 
 https://notebooks.azure.com/garth-wells/libraries/CUED-IA-Computing-Michaelmas
 
-It is recommended that you use the notebooks via the above link.
-
-Note that when 'viewing' the rendered notebooks on the Azure service
-there may be some display artefacts. For the best experience, 'clone'
-the library to use the notebooks in a Jupyter environment.
-
-
 ## Getting started
 
 Each notebook covers a topic, with a number of exercises for
 completion at the end of each notebook. Start with the notebook
-[Part IA Michaelmas Term computing](00 Part IA Michaelmas Term
-computing.ipynb). Model solutions to the exercises are available -
-contact [Garth N. Wells](<gnw20@cam.ac.uk>) to request the solutions.
-
-Cambridge students/staff: When prompted to sign in to the Azure
-notebook service, use your University of Cambridge email address,
-e.g. `crsid@cam.ac.uk`.
-
-Others: Create an account on https://notebooks.azure.com to use the
-notebooks interactively.
-
+[Part IA Michaelmas Term computing](00 Part IA Michaelmas Term computing.ipynb).
 
 ## Accompanying exercises
 
